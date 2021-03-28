@@ -1,3 +1,7 @@
+html{
+    scroll-margin-block-start: 100px;
+}
+
 body{
     font-family: 'Open Sans', sans-serif;
     margin: auto;
@@ -121,7 +125,6 @@ footer >nav >a >img{
 li{
     margin-bottom: 5%;
     color: rgb(111, 24, 192);
-  
 }
 
 
