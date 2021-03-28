@@ -15,6 +15,7 @@ header{
 header >nav{
     text-align: end;
     text-transform: none;
+    margin-right: 5%;
 }
 
 a{
