@@ -86,8 +86,42 @@ footer >nav >a >img{
     padding-right: 7px;
 }
 
+.seelive{
+    text-decoration: none;
+    padding: 7px;
+    outline: 1px dotted black;
+    background-color: rgb(171, 179, 245);
+    text-align: end;
+}
+
+.seelive:hover{
+    color: white;
+    background-color: rgb(8, 34, 185);
+    outline: 0.5px dashed rgb(5, 4, 0);
+  }
+
+  .best{
+      color: rgb(37, 83, 209);
+  }
+
+  .viewsource{
+    text-decoration: none;
+    padding: 7px;
+    outline: 1px dotted black;
+    background-color: rgb(217, 217, 219);
+    text-align: end;
+}
+
+.viewsource:hover{
+    color: white;
+    background-color: rgb(80, 42, 57);
+    outline: 0.5px dashed rgb(5, 4, 0);
+  }
+
 li{
-    margin-bottom: 5%
+    margin-bottom: 5%;
+    color: rgb(111, 24, 192);
+  
 }
 
 
